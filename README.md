@@ -3,6 +3,10 @@
 
 It is a system that recommends movies to users by using Kaggle movie dataset.
 
+### Preview
+
+<img src="https://t1.daumcdn.net/cfile/tistory/9921884C5C6E6E861A">
+
 ### Algorithm
 
 + [TF-IDF](https://ko.wikipedia.org/wiki/Tf-idf) 
