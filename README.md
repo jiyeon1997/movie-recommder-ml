@@ -21,3 +21,13 @@ It is a system that recommends movies to users by using Kaggle movie dataset.
 4. Sort the similarities in descending order.
 5. Extract only 10 of the sorted values.
 6. Output the extracted data.
+
+### Author
+
++ Ji Yeon, Cheon 
+
++ email : somos3993@gmail.com
+
++ Let me know what features you'd like to add or error.
+
++ Thank you!
